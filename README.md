@@ -3,8 +3,11 @@
 1. QUI SÓC
 
 Nom: Moseab
+
 Cognoms:Zbakh El Ghoury
+
 Curs:  GS 1r DAM
+
 Centre: Escola Mataro Pia
 
 Presentació: Va ig interessarme en la programacio a 1r Bachillerat, 
